@@ -1,0 +1,29 @@
+Falken, Ltd. Non-Commercial License
+Version 1.0, August 9, 2024
+
+1. Definitions
+"Software" refers to the code, documentation, and any related materials that are distributed under this license.
+
+"Non-Commercial Use" means any use of the Software that is not intended to generate revenue or be used in a commercial product or service.
+
+2. Grant of License
+Subject to the terms and conditions of this license, Falken, Ltd. hereby grants you a worldwide, royalty-free, non-exclusive, non-transferable license to:
+
+Use: You may use the Software for Non-Commercial Use in your own projects.
+Modify: You may modify, adapt, and create derivative works of the Software, provided that such modifications are also used only for Non-Commercial Use.
+Distribute: You may distribute the Software, in its original or modified form, for Non-Commercial Use, provided that you include this license with any such distribution and make clear that the Software is licensed under this Non-Commercial License.
+3. Restrictions
+No Commercial Use: You may not use the Software or any derivative works for any Commercial Use without prior written permission from Falken, Ltd. This includes, but is not limited to, incorporating the Software into a commercial product or service, or using the Software to generate revenue in any form.
+
+Attribution: You must retain all copyright, patent, trademark, and attribution notices that are present in the Software. You must include a copy of this license in any distribution of the Software.
+
+No Warranty: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall Falken, Ltd. be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+4. Termination
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must cease all use and distribution of the Software and destroy all copies in your possession or control.
+
+5. Governing Law
+This license shall be governed by and construed in accordance with the laws of North Carolina.
+
+6. Entire Agreement
+This license constitutes the entire agreement between you and Falken, Ltd. concerning the Software and supersedes all prior agreements and understandings regarding such subject matter.
